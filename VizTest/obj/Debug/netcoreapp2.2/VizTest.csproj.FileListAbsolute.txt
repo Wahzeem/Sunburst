@@ -1,0 +1,96 @@
+/Users/williamsingh/Projects/VizTest/VizTest/bin/Debug/netcoreapp2.2/VizTest.deps.json
+/Users/williamsingh/Projects/VizTest/VizTest/bin/Debug/netcoreapp2.2/VizTest.runtimeconfig.json
+/Users/williamsingh/Projects/VizTest/VizTest/bin/Debug/netcoreapp2.2/VizTest.runtimeconfig.dev.json
+/Users/williamsingh/Projects/VizTest/VizTest/bin/Debug/netcoreapp2.2/VizTest.dll
+/Users/williamsingh/Projects/VizTest/VizTest/bin/Debug/netcoreapp2.2/VizTest.pdb
+/Users/williamsingh/Projects/VizTest/VizTest/bin/Debug/netcoreapp2.2/VizTest.Views.dll
+/Users/williamsingh/Projects/VizTest/VizTest/bin/Debug/netcoreapp2.2/VizTest.Views.pdb
+/Users/williamsingh/Projects/VizTest/VizTest/obj/Debug/netcoreapp2.2/VizTest.csprojAssemblyReference.cache
+/Users/williamsingh/Projects/VizTest/VizTest/obj/Debug/netcoreapp2.2/VizTest.csproj.CoreCompileInputs.cache
+/Users/williamsingh/Projects/VizTest/VizTest/obj/Debug/netcoreapp2.2/VizTest.RazorAssemblyInfo.cache
+/Users/williamsingh/Projects/VizTest/VizTest/obj/Debug/netcoreapp2.2/VizTest.RazorAssemblyInfo.cs
+/Users/williamsingh/Projects/VizTest/VizTest/obj/Debug/netcoreapp2.2/VizTest.AssemblyInfoInputs.cache
+/Users/williamsingh/Projects/VizTest/VizTest/obj/Debug/netcoreapp2.2/VizTest.AssemblyInfo.cs
+/Users/williamsingh/Projects/VizTest/VizTest/obj/Debug/netcoreapp2.2/VizTest.TagHelpers.input.cache
+/Users/williamsingh/Projects/VizTest/VizTest/obj/Debug/netcoreapp2.2/VizTest.TagHelpers.output.cache
+/Users/williamsingh/Projects/VizTest/VizTest/obj/Debug/netcoreapp2.2/VizTest.RazorCoreGenerate.cache
+/Users/williamsingh/Projects/VizTest/VizTest/obj/Debug/netcoreapp2.2/Razor/Pages/Error.g.cshtml.cs
+/Users/williamsingh/Projects/VizTest/VizTest/obj/Debug/netcoreapp2.2/Razor/Pages/Index.g.cshtml.cs
+/Users/williamsingh/Projects/VizTest/VizTest/obj/Debug/netcoreapp2.2/Razor/Pages/Privacy.g.cshtml.cs
+/Users/williamsingh/Projects/VizTest/VizTest/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/williamsingh/Projects/VizTest/VizTest/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_Layout.g.cshtml.cs
+/Users/williamsingh/Projects/VizTest/VizTest/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/williamsingh/Projects/VizTest/VizTest/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewImports.g.cshtml.cs
+/Users/williamsingh/Projects/VizTest/VizTest/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewStart.g.cshtml.cs
+/Users/williamsingh/Projects/VizTest/VizTest/obj/Debug/netcoreapp2.2/VizTest.RazorTargetAssemblyInfo.cache
+/Users/williamsingh/Projects/VizTest/VizTest/obj/Debug/netcoreapp2.2/VizTest.RazorTargetAssemblyInfo.cs
+/Users/williamsingh/Projects/VizTest/VizTest/obj/Debug/netcoreapp2.2/VizTest.Views.pdb
+/Users/williamsingh/Projects/VizTest/VizTest/obj/Debug/netcoreapp2.2/VizTest.dll
+/Users/williamsingh/Projects/VizTest/VizTest/obj/Debug/netcoreapp2.2/VizTest.pdb
+/Users/williamsingh/Projects/VizTest/VizTest/obj/Debug/netcoreapp2.2/VizTest.csproj.CopyComplete
+/Users/williamsingh/Documents/Sunburst/VizTest/bin/Debug/netcoreapp2.2/VizTest.deps.json
+/Users/williamsingh/Documents/Sunburst/VizTest/bin/Debug/netcoreapp2.2/VizTest.runtimeconfig.json
+/Users/williamsingh/Documents/Sunburst/VizTest/bin/Debug/netcoreapp2.2/VizTest.runtimeconfig.dev.json
+/Users/williamsingh/Documents/Sunburst/VizTest/bin/Debug/netcoreapp2.2/VizTest.dll
+/Users/williamsingh/Documents/Sunburst/VizTest/bin/Debug/netcoreapp2.2/VizTest.pdb
+/Users/williamsingh/Documents/Sunburst/VizTest/bin/Debug/netcoreapp2.2/VizTest.Views.dll
+/Users/williamsingh/Documents/Sunburst/VizTest/bin/Debug/netcoreapp2.2/VizTest.Views.pdb
+/Users/williamsingh/Documents/Sunburst/VizTest/obj/Debug/netcoreapp2.2/VizTest.csprojAssemblyReference.cache
+/Users/williamsingh/Documents/Sunburst/VizTest/obj/Debug/netcoreapp2.2/VizTest.RazorAssemblyInfo.cache
+/Users/williamsingh/Documents/Sunburst/VizTest/obj/Debug/netcoreapp2.2/VizTest.RazorAssemblyInfo.cs
+/Users/williamsingh/Documents/Sunburst/VizTest/obj/Debug/netcoreapp2.2/VizTest.AssemblyInfoInputs.cache
+/Users/williamsingh/Documents/Sunburst/VizTest/obj/Debug/netcoreapp2.2/VizTest.AssemblyInfo.cs
+/Users/williamsingh/Documents/Sunburst/VizTest/obj/Debug/netcoreapp2.2/VizTest.TagHelpers.input.cache
+/Users/williamsingh/Documents/Sunburst/VizTest/obj/Debug/netcoreapp2.2/VizTest.TagHelpers.output.cache
+/Users/williamsingh/Documents/Sunburst/VizTest/obj/Debug/netcoreapp2.2/VizTest.RazorCoreGenerate.cache
+/Users/williamsingh/Documents/Sunburst/VizTest/obj/Debug/netcoreapp2.2/VizTest.RazorTargetAssemblyInfo.cache
+/Users/williamsingh/Documents/Sunburst/VizTest/obj/Debug/netcoreapp2.2/VizTest.RazorTargetAssemblyInfo.cs
+/Users/williamsingh/Documents/Sunburst/VizTest/obj/Debug/netcoreapp2.2/VizTest.Views.pdb
+/Users/williamsingh/Documents/Sunburst/VizTest/obj/Debug/netcoreapp2.2/VizTest.dll
+/Users/williamsingh/Documents/Sunburst/VizTest/obj/Debug/netcoreapp2.2/VizTest.pdb
+/Users/williamsingh/Documents/Sunburst/VizTest/obj/Debug/netcoreapp2.2/VizTest.csproj.CopyComplete
+/Users/williamsingh/Documents/Sunburst/VizTest/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/williamsingh/Documents/Sunburst/VizTest/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/williamsingh/Documents/Sunburst/VizTest/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/williamsingh/Documents/Sunburst/VizTest/obj/Debug/netcoreapp2.2/Razor/Pages/Error.cshtml.g.cs
+/Users/williamsingh/Documents/Sunburst/VizTest/obj/Debug/netcoreapp2.2/Razor/Pages/Index.cshtml.g.cs
+/Users/williamsingh/Documents/Sunburst/VizTest/obj/Debug/netcoreapp2.2/Razor/Pages/Privacy.cshtml.g.cs
+/Users/williamsingh/Documents/Sunburst/VizTest/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_CookieConsentPartial.cshtml.g.cs
+/Users/williamsingh/Documents/Sunburst/VizTest/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_Layout.cshtml.g.cs
+/Users/williamsingh/Documents/Sunburst/VizTest/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/williamsingh/Documents/Sunburst/VizTest/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/williamsingh/Documents/Sunburst/VizTest/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewStart.cshtml.g.cs
+/Users/williamsingh/Documents/Sunburst copy/VizTest/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/williamsingh/Documents/Sunburst copy/VizTest/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/williamsingh/Documents/Sunburst copy/VizTest/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/williamsingh/Documents/Sunburst copy/VizTest/bin/Debug/netcoreapp2.2/VizTest.deps.json
+/Users/williamsingh/Documents/Sunburst copy/VizTest/bin/Debug/netcoreapp2.2/VizTest.runtimeconfig.json
+/Users/williamsingh/Documents/Sunburst copy/VizTest/bin/Debug/netcoreapp2.2/VizTest.runtimeconfig.dev.json
+/Users/williamsingh/Documents/Sunburst copy/VizTest/bin/Debug/netcoreapp2.2/VizTest.dll
+/Users/williamsingh/Documents/Sunburst copy/VizTest/bin/Debug/netcoreapp2.2/VizTest.pdb
+/Users/williamsingh/Documents/Sunburst copy/VizTest/bin/Debug/netcoreapp2.2/VizTest.Views.dll
+/Users/williamsingh/Documents/Sunburst copy/VizTest/bin/Debug/netcoreapp2.2/VizTest.Views.pdb
+/Users/williamsingh/Documents/Sunburst copy/VizTest/obj/Debug/netcoreapp2.2/VizTest.csprojAssemblyReference.cache
+/Users/williamsingh/Documents/Sunburst copy/VizTest/obj/Debug/netcoreapp2.2/VizTest.RazorAssemblyInfo.cache
+/Users/williamsingh/Documents/Sunburst copy/VizTest/obj/Debug/netcoreapp2.2/VizTest.RazorAssemblyInfo.cs
+/Users/williamsingh/Documents/Sunburst copy/VizTest/obj/Debug/netcoreapp2.2/VizTest.AssemblyInfoInputs.cache
+/Users/williamsingh/Documents/Sunburst copy/VizTest/obj/Debug/netcoreapp2.2/VizTest.AssemblyInfo.cs
+/Users/williamsingh/Documents/Sunburst copy/VizTest/obj/Debug/netcoreapp2.2/VizTest.TagHelpers.input.cache
+/Users/williamsingh/Documents/Sunburst copy/VizTest/obj/Debug/netcoreapp2.2/VizTest.TagHelpers.output.cache
+/Users/williamsingh/Documents/Sunburst copy/VizTest/obj/Debug/netcoreapp2.2/VizTest.RazorCoreGenerate.cache
+/Users/williamsingh/Documents/Sunburst copy/VizTest/obj/Debug/netcoreapp2.2/Razor/Pages/Error.cshtml.g.cs
+/Users/williamsingh/Documents/Sunburst copy/VizTest/obj/Debug/netcoreapp2.2/Razor/Pages/Index.cshtml.g.cs
+/Users/williamsingh/Documents/Sunburst copy/VizTest/obj/Debug/netcoreapp2.2/Razor/Pages/Privacy.cshtml.g.cs
+/Users/williamsingh/Documents/Sunburst copy/VizTest/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_CookieConsentPartial.cshtml.g.cs
+/Users/williamsingh/Documents/Sunburst copy/VizTest/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_Layout.cshtml.g.cs
+/Users/williamsingh/Documents/Sunburst copy/VizTest/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/williamsingh/Documents/Sunburst copy/VizTest/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/williamsingh/Documents/Sunburst copy/VizTest/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewStart.cshtml.g.cs
+/Users/williamsingh/Documents/Sunburst copy/VizTest/obj/Debug/netcoreapp2.2/VizTest.RazorTargetAssemblyInfo.cache
+/Users/williamsingh/Documents/Sunburst copy/VizTest/obj/Debug/netcoreapp2.2/VizTest.RazorTargetAssemblyInfo.cs
+/Users/williamsingh/Documents/Sunburst copy/VizTest/obj/Debug/netcoreapp2.2/VizTest.Views.pdb
+/Users/williamsingh/Documents/Sunburst copy/VizTest/obj/Debug/netcoreapp2.2/VizTest.dll
+/Users/williamsingh/Documents/Sunburst copy/VizTest/obj/Debug/netcoreapp2.2/VizTest.pdb
+/Users/williamsingh/Documents/Sunburst copy/VizTest/obj/Debug/netcoreapp2.2/VizTest.csproj.CopyComplete
+/Users/williamsingh/Documents/Sunburst copy/VizTest/obj/Debug/netcoreapp2.2/VizTest.csproj.CoreCompileInputs.cache
+/Users/williamsingh/Documents/Sunburst copy/VizTest/obj/Debug/netcoreapp2.2/VizTest.genruntimeconfig.cache

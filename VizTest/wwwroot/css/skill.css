@@ -1,0 +1,43 @@
+﻿
+body {
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    background-color: #fff;
+}
+
+
+#skillmap .skills-sunburst {    
+    width: 50px;
+    margin: -70px 0 0 280px;
+}
+
+
+    #skillmap .skills-sunburst svg {
+        font: 0px "Roboto Condensed", sans-serif;
+        font-weight: 900;
+        cursor: pointer;        
+    }
+
+
+
+    #skillmap .skills-chart .breadcumb-text {  
+        font-size: 11px;
+        font-weight: 100;
+        margin: 0 0 0 0px;
+    }
+
+    #skillmap .skills-chart  {
+        margin: 0 0px 0px 180px;
+    }
+
+  
+
+  
+
+   
+
+
+
+
+

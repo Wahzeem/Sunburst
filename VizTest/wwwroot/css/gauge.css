@@ -1,0 +1,92 @@
+﻿.funds-allocated-meter .background {
+    fill: #e6e7e8;
+}
+
+.funds-allocated-meter .foreground {
+    fill: #77BDF3;
+}
+
+.funds-allocated-meter text.percent-complete {
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 40px;
+    fill: #5b8be3;
+    letter-spacing: -0.03em;
+}
+
+.funds-allocated-meter text.description {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 11px;
+    fill: #9b9b9b;
+}
+
+.funds-allocated2-meter .background {
+    fill: #e6e7e8;
+}
+
+.funds-allocated2-meter .foreground {
+    fill: #d2b600;
+}
+
+.funds-allocated2-meter text.percent-complete {
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 40px;
+    fill: #5b8be3;
+    letter-spacing: -0.03em;
+}
+
+.funds-allocated2-meter text.description {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 11px;
+    fill: #9b9b9b;
+}
+
+.funds-allocated3-meter .background {
+    fill: #e6e7e8;
+}
+
+.funds-allocated3-meter .foreground {
+    fill: #51D775;
+}
+
+.funds-allocated3-meter text.percent-complete {
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 40px;
+    fill: #5b8be3;
+    letter-spacing: -0.03em;
+}
+
+.funds-allocated3-meter text.description {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 11px;
+    fill: #9b9b9b;
+}
+
+.funds-allocated4-meter .background {
+    fill: #e6e7e8;
+}
+
+.funds-allocated4-meter .foreground {
+    fill: #F37777;
+}
+
+.funds-allocated4-meter text.percent-complete {
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 40px;
+    fill: #5b8be3;
+    letter-spacing: -0.03em;
+}
+
+.funds-allocated4-meter text.description {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 11px;
+    fill: #9b9b9b;
+}
+
+
+#docsChart #popup {
+  display: none;
+}
+
+#docsChart:hover #popup {
+  display: block;
+}
